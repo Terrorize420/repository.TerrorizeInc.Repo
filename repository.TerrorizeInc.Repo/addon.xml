@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.TerrorizeInc.Repo" name="Terrorize Inc Repo" version="0.0.3" provider-name="Terrorize420">
-	<extension point="xbmc.addon.repository" name="Terrorize Inc Repo">
+<addon id="repository.TerrorizeInc.Repo" name="[COLOR green]Terrorize Inc[/COLOR] Repo" version="0.0.4" provider-name="[COLOR green]Terrorize420[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR green]Terrorize Inc[/COLOR] Repo">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
-			<datadir zips="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/Terrorize420/repository.TerrorizeInc.Repo/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Terrorize420/repository.TerrorizeInc.Repo/master/zips/addons.xml.md5</checksum>
+			<datadir zips="true">https://github.com/Terrorize420/repository.TerrorizeInc.Repo/master/zips/</datadir>
 		</dir>
 		<info compressed="false">https://raw.githubusercontent.com/Terrorize420/repository.TerrorizeInc.Repo/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Terrorize420/repository.TerrorizeInc.Repo/master/zips/addons.xml.md5</checksum>
@@ -12,7 +12,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">[COLOR green]Terrorize Inc Repository[/COLOR]</summary>
-		<description lang="en">[COLOR red][B]Brad[/B][/COLOR] Is A [COLOR brown]Butt[/COLOR] [COLOR yellow]Baby[/COLOR]</description>
+		<description lang="en">[COLOR blue][B]Brad[/B][/COLOR] Is A [COLOR yellow]Butt Baby[/COLOR]</description>
 		<genre>usa</genre>
 	</extension>
 </addon>
