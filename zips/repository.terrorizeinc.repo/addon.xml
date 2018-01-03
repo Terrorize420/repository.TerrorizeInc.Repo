@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.TerrorizeInc.Repo" name="[COLOR green]Terrorize Inc[/COLOR] Repo" version="0.0.4" provider-name="[COLOR green]Terrorize420[/COLOR]">
+<addon id="repository.TerrorizeInc.Repo" name="[COLOR green]Terrorize Inc[/COLOR] Repo" version="0.0.5" provider-name="[COLOR green]Terrorize420[/COLOR]">
 	<extension point="xbmc.addon.repository" name="[COLOR green]Terrorize Inc[/COLOR] Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/Terrorize420/repository.TerrorizeInc.Repo/master/zips/addons.xml</info>
